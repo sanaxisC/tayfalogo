@@ -1,6 +1,6 @@
 ProxyVersion|1.0
 OwnerGrowID|BurakPangu
-DeveloperGrowID|null
+DeveloperGrowID|Herzamanseninle
 FriendGrowID|null
 OtherFriendGrowID|null
 OtherFriendGrowID2|null
