@@ -1,6 +1,6 @@
-1.0
-BurakPangu
-null
-null
-null
-null
+ProxyVersion|1.0
+DeveloperGrowID|BurakPangu
+FriendGrowID|null
+OtherFriendGrowID|null
+OtherFriendGrowID2|null
+OtherFriendGrowID3|null
