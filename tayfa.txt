@@ -2,6 +2,6 @@ ProxyVersion|1.0
 OwnerGrowID|null
 DeveloperGrowID|Herzamanseninle
 FriendGrowID|
-OtherFriendGrowID|
+OtherFriendGrowID|null
 OtherFriendGrowID2|null
 OtherFriendGrowID3|null
