@@ -2,6 +2,6 @@ ProxyVersion|1.0
 OwnerGrowID|BurakABV
 DeveloperGrowID|Herzamanseninle
 FriendGrowID|Seraxy
-OtherFriendGrowID|Gottyikamaborusu
+OtherFriendGrowID|GottYikamaBorusu
 OtherFriendGrowID2|null
 OtherFriendGrowID3|null
