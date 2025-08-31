@@ -1,4 +1,4 @@
-ProxyVersion|1.1
+ProxyVersion|1.0
 OwnerGrowID|BurakABV
 DeveloperGrowID|Herzamanseninle
 FriendGrowID|Seraxy
