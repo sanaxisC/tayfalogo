@@ -7,3 +7,4 @@ OtherFriendGrowID2|null
 OtherFriendGrowID3|null
 
 NewsText|`9No News.
+LastUpdateCommand|
