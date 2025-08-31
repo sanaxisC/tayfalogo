@@ -5,3 +5,5 @@ FriendGrowID|Seraxy
 OtherFriendGrowID|GottYikamaBorusu
 OtherFriendGrowID2|null
 OtherFriendGrowID3|null
+
+NewsText|null
