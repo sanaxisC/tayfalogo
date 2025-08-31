@@ -1,4 +1,4 @@
-ProxyVersion|1.0
+ProxyVersion|1.1
 OwnerGrowID|BurakABV
 DeveloperGrowID|Herzamanseninle
 FriendGrowID|Seraxy
@@ -6,4 +6,4 @@ OtherFriendGrowID|GottYikamaBorusu
 OtherFriendGrowID2|null
 OtherFriendGrowID3|null
 
-NewsText|`430 Agustos `2Zafer Bayramimiz Kutlu Olsun.
+NewsText|`9No News.
