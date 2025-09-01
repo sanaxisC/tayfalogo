@@ -6,5 +6,5 @@ OtherFriendGrowID|GottYikamaBorusu
 OtherFriendGrowID2|null
 OtherFriendGrowID3|null
 
-NewsText|`9alper aux oksurme artik amk
+NewsText|`9No News, `2Back To School i Guess?
 LastUpdateCommand|/cbox, /aux
