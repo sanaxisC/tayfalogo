@@ -1,1 +1,11 @@
+ProxyVersion|1.1
+OwnerGrowID|BurakABV
+DeveloperGrowID|HerZamanSeninle
+FriendGrowID|null
+OtherFriendGrowID|null
+OtherFriendGrowID2|null
+OtherFriendGrowID3|null
 
+ProxyNews1|`8[09/09] `2Owner Of `9AJ Premium Proxy Known As `#Joakimmer1k0 `9Scammed Over 500+BGLS!.
+ProxyNews2|`8[07/09] `9Childrens In `4Turkey `9Back To `8School `4Sadly`9.
+ProxyNews3|`8[06/09] `9Puff Premium Proxy `2Started To Developing`9.
