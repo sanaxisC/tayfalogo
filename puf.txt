@@ -6,6 +6,6 @@ OtherFriendGrowID|null
 OtherFriendGrowID2|null
 OtherFriendGrowID3|null
 
-ProxyNews1|`8[09/09/2025] `2Owner Of `#AJ Premium Proxy Known As `#Joakimmer1k0 `9Scammed Over 500+BGLS!.
-ProxyNews2|`8[08/09/2025] `9Childrens In `4Turkey `9Back To `8School `4Sadly`9.
-ProxyNews3|`8[06/09/2025] `9Puff Premium Proxy `2Started To Developing`9.
+ProxyNews1|`8[19/09/2025] `9Lastest Commands Added In Update v1.3 `2 /cbox`9, `2/worlds
+ProxyNews2|`8[09/09/2025] `2Owner Of `#AJ Premium Proxy Known As `#Joakimmer1k0 `9Scammed Over 500+BGLS!.
+ProxyNews3|`8[08/09/2025] `9Childrens In `4Turkey `9Back To `8School `4Sadly`9.
