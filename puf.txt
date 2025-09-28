@@ -8,7 +8,7 @@ OtherFriendGrowID3|null
 
 ProxyNews1|`8[23/09/2025] `9You Can Watch `2Vocimera's `9Latest Live With Typing `2/vocimera
 ProxyNews2|`8[19/09/2025] `9Lastest Commands Added In Update v1.3 `2 /cbox`9, `2/owned
-ProxyNews3|`8[09/09/2025] `2Owner Of `#AJ Premium Proxy Known As `#Joakimmer1k0 `9Scammed Over 500+BGLS!.
+ProxyNews3|`8[09/09/2025] `2Owner Of `#AJ Premium Proxy Known As `#Joakimmer1k0 `9Scammed Over `2500+ `!BGLS`9!.
 
 VocimeraLink|https://www.youtube.com/watch?v=lKcc2PU4-4s&t=111s
 MegriLink|https://www.youtube.com/watch?v=atDyUvCNIpY
