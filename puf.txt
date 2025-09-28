@@ -15,3 +15,4 @@ MegriLink|https://www.youtube.com/watch?v=atDyUvCNIpY
 TurabLink|https://www.youtube.com/watch?v=boJKG3qhUjE&t=234s
 
 Pull|null
+Telsiz|
