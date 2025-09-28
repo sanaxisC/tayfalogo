@@ -14,8 +14,9 @@ VocimeraLink|https://www.youtube.com/watch?v=lKcc2PU4-4s&t=111s
 MegriLink|https://www.youtube.com/watch?v=atDyUvCNIpY
 TurabLink|https://www.youtube.com/watch?v=boJKG3qhUjE&t=234s
 
-Pull|BurakABV
-Telsiz|zaza
-Bok|SanaxiscXrud
-Hizmet|zuzu
-AklinaBenGelicem|KORKURSUNQWE
+PrivCom1|BurakABV
+PrivCom2|zaza
+PrivCom3|SanaxiscXrud
+PrivCom4|zuzu
+PrivCom5|KORKURSUNQWE
+PrivCom6|tekteker
