@@ -19,4 +19,4 @@ PrivCom2|zaza
 PrivCom3|SanaxiscXrud
 PrivCom4|zuzu
 PrivCom5|KORKURSUNQWE
-PrivCom6|tekteker
+PrivCom6|kaltak
